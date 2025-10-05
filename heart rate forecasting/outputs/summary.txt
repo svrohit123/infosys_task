@@ -1,0 +1,6 @@
+Mean Absolute Error (Training): 1.04 bpm
+
+Forecast for Day 67:
+Date: 2025-12-09 00:00:00
+Predicted Heart Rate: 70.93 bpm
+Confidence Interval: [69.19, 72.69] bpm
